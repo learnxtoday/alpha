@@ -1,0 +1,6 @@
+Flask
+flask_sqlalchemy
+python-dotenv
+pycco
+email-validator
+flask-wtf
